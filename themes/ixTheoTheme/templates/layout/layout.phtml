@@ -24,6 +24,9 @@
         )
       );
     ?>
+      <!-- Font Awesome //already included
+            <link rel="stylesheet" href="/css/font-awesome.min.css">
+            -->
     <!-- RTL styling -->
     <? if ($this->layout()->rtl) {
       $this->headLink()->appendStylesheet('vendor/bootstrap-rtl.min.css');
@@ -118,12 +121,14 @@ JS;
     <?=$this->headScript()?>
   </head>
   <body class="<?=$this->layoutClass('offcanvas-row')?><? if ($this->layout()->rtl): ?> rtl<? endif; ?>">
+    <!-- deactivated background
     <div class="background<?=$backgroundSmallClass;?>">
       <div class="background-stripe">
         &nbsp;
       </div>
       &nbsp;
     </div>
+    -->
     <? // Set up the search box -- there are three possible cases:
       // 1. No search box was set; we should default to the normal box
       // 2. It was set to false; we should display nothing
