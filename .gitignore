@@ -21,7 +21,7 @@ tlog.*
 *.log.1
 
 # Compiled CSS
-compiled.css
+#compiled.css
 
 # Server specific configuration files
 httpd-vufind.conf

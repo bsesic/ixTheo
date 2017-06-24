@@ -28,8 +28,8 @@
       <file leaf-file-name="compiled.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="3741" column="29" lean-forward="false" selection-start-line="3741" selection-start-column="29" selection-end-line="3741" selection-end-column="29" />
+            <state relative-caret-position="341">
+              <caret line="9470" column="19" lean-forward="false" selection-start-line="9470" selection-start-column="19" selection-end-line="9470" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
       <file leaf-file-name="header.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -144,13 +144,13 @@
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/TODO.md" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/less/vendor/bootstrap/bootstrap.less" />
-        <option value="$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/less/font-awesome/font-awesome.less" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/less/variables.less" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/less/font-awesome/variables.less" />
+        <option value="$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css" />
       </list>
     </option>
   </component>
@@ -413,24 +413,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ixTheo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ixTheo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DEBIAN" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -630,7 +612,7 @@
       <workItem from="1498073324410" duration="6558000" />
       <workItem from="1498112561696" duration="3711000" />
       <workItem from="1498292912196" duration="3275000" />
-      <workItem from="1498299391717" duration="615000" />
+      <workItem from="1498299391717" duration="2722000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in the stylesheets.">
       <created>1497995758579</created>
@@ -678,10 +660,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18037000" />
+    <option name="totallyTimeSpent" value="20144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="993" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25772098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -994,14 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/footer.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1058,10 +1033,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="3741" column="29" lean-forward="false" selection-start-line="3741" selection-start-column="29" selection-end-line="3741" selection-end-column="29" />
+        <state relative-caret-position="341">
+          <caret line="9470" column="19" lean-forward="false" selection-start-line="9470" selection-start-column="19" selection-end-line="9470" selection-end-column="19" />
           <folding />
         </state>
       </provider>
