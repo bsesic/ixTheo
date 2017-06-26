@@ -31,22 +31,36 @@
             <li><a href="/Impressum"><?=$this->transEsc('Impressum');?></a></li>
           </ul>
         </li>
-        <li role="presentation" class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown"  href="#" role="button" aria-haspopup="true" aria-expanded="false">
 
-                <a href="A-Z"><i class="fa fa-question-circle" aria-hidden="true"></i> IxTheo A-Z</a>
-            </a>
-        </li>
-        <? if ($this->feedback()->tabEnabled()): ?>
-          <li>
-            <a id="feedbackLink" class="modal-link" href="<?=$this->url('feedback-home') ?>"><i class="fa fa-envelope"></i> <?=$this->transEsc("Feedback")?></a>
+          <!-- Begin Help dropdown -->
+          <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown"  href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-question-circle" aria-hidden="true"></i> Help<span class="caret"></span></a>
+              <ul>
+                  <li><a href="A-Z"> IxTheo A-Z</a></li>
+              </ul>
+              <? if ($this->feedback()->tabEnabled()): ?>
+                  <ul>
+                      <li>
+                          <a id="feedbackLink" class="modal-link" href="<?= $this->url('feedback-home') ?>"><i
+                                      class="fa fa-envelope"></i> <?= $this->transEsc("Feedback") ?></a>
+                      </li>
+                  </ul>
+              <? endif; ?>
+              <ul>
+                  <? $cart = $this->cart();
+                  if ($cart->isActive()): ?>
+                      <li id="cartSummary">
+                          <a id="cartItems" class="modal-link" title="<?= $this->transEsc('View Book Bag') ?>"
+                             href="<?= $this->url('cart-home') ?>"><i class="fa fa-suitcase"></i>
+                              <strong><?= count($cart->getItems()) ?></strong> <?= $this->transEsc('items') ?><?= $cart->isFull() ? ' (' . $this->transEsc('bookbag_full') . ')' : '' ?>
+                          </a>
+                      </li>
+                  <? endif; ?>
+              </ul>
           </li>
-        <? endif; ?>
-        <? $cart = $this->cart(); if ($cart->isActive()): ?>
-          <li id="cartSummary">
-            <a id="cartItems" class="modal-link" title="<?=$this->transEsc('View Book Bag')?>" href="<?=$this->url('cart-home')?>"><i class="fa fa-suitcase"></i> <strong><?=count($cart->getItems())?></strong> <?=$this->transEsc('items')?><?=$cart->isFull() ? ' (' .  $this->transEsc('bookbag_full') . ')' : ''?></a>
-          </li>
-        <? endif; ?>
+
+          <!-- End Help dropdown -->
 
           <!-- Begin section user account -->
         <? if (is_object($account) && $account->loginEnabled()): // hide login/logout if unavailable ?>
