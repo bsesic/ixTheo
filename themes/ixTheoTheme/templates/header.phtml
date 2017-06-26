@@ -1,9 +1,11 @@
 <? $account = $this->auth()->getManager(); ?>
+<!-- Begin section Navbar -->
 <div class="navbar-header">
   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header-collapse">
     <span class="sr-only">Toggle navigation</span>
     <i class="fa fa-bars"></i>
   </button>
+    <!-- Logo -->
   <a class="navbar-brand lang-<?=$this->layout()->userLang ?>" href="<?=$this->url('home')?>">IxTheo</a>
 </div>
 <? if (!isset($this->layout()->renderingError)): ?>
@@ -11,8 +13,9 @@
     <nav>
       <ul class="nav navbar-nav navbar-right flip">
 
-          <!-- Bilder für die Unterstützer     -->
+          <!-- Images for supporters   -->
 
+          <!-- Begin section Main Menu -->
         <li role="presentation" class="active">
             <a href="<?=$this->url('home')?>">
                 <i class="fa fa-home" aria-hidden="true"></i>
@@ -32,6 +35,7 @@
             <a class="dropdown-toggle" data-toggle="dropdown"  href="#" role="button" aria-haspopup="true" aria-expanded="false">
 
                 <a href="A-Z"><i class="fa fa-question-circle" aria-hidden="true"></i> IxTheo A-Z</a>
+            </a>
         </li>
         <? if ($this->feedback()->tabEnabled()): ?>
           <li>
@@ -44,6 +48,7 @@
           </li>
         <? endif; ?>
 
+          <!-- Begin section user account -->
         <? if (is_object($account) && $account->loginEnabled()): // hide login/logout if unavailable ?>
           <li class="logoutOptions<? if(!$account->isLoggedIn()): ?> hidden<? endif ?>">
             <a href="<?=$this->url('myresearch-home', array(), array('query' => array('redirect' => 0)))?>" class="modal-link" title="<?=$this->transEsc("Your Account")?>"><i class="fa fa-home"></i> <?=$this->transEsc("Your Account")?></a>
@@ -59,7 +64,9 @@
             <? endif; ?>
           </li>
         <? endif; ?>
+          <!-- End section user account -->
 
+          <!-- Begin section language   -->
         <? if (isset($this->layout()->allLangs) && count($this->layout()->allLangs) > 1): ?>
           <li class="dropdown">
             <form method="post" name="langForm" id="langForm">
@@ -73,18 +80,28 @@
             </ul>
           </li>
         <? endif; ?>
+          <!-- End section language  -->
+
+          <!-- End section Main Menu -->
       </ul>
     </nav>
   </div>
 <? endif; ?>
+<!--   End section Navbar     -->
+
+<!--  Begin section searchbar -->
   <section class="visible-lg section-home">
     <div class="panel-home">
       <br />
       <br />
-      <h1>
+
+      <!--  Begin title -->
+        <h1>
         <a href="<?=$this->url('home')?>" title="Index Theologicus">Index Theologicus</a>
       </h1>
       <small><?=$this->transEsc("ixtheo_subtitle")?></small>
+      <!-- End title -->
+
       <br />
       <? if ($this->ils()->getOfflineMode() == "ils-offline"): ?>
         <div class="alert alert-warning">
@@ -102,3 +119,4 @@
       </div>
     </div>
   </section>
+<!-- End section searchbar -->
