@@ -33,7 +33,7 @@
         </li>
 
           <!-- Begin Help dropdown -->
-          <a class="dropdown">
+          <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown"  href="#" role="button" aria-haspopup="true" aria-expanded="false">
                   <i class="fa fa-question-circle" aria-hidden="true"></i> Help<span class="caret"></span></a>
               <ul>
@@ -42,8 +42,7 @@
               <? if ($this->feedback()->tabEnabled()): ?>
                   <ul>
                       <li>
-                          <a id="feedbackLink" class="modal-link" href="<?= $this->url('feedback-home') ?>"><i
-                                      class="fa fa-envelope"></i> <?= $this->transEsc("Feedback") ?></a>
+                          <a id="feedbackLink" class="modal-link" href="<?= $this->url('feedback-home') ?>"><i class="fa fa-envelope"></i> <?= $this->transEsc("Feedback") ?></a>
                       </li>
                   </ul>
               <? endif; ?>
@@ -59,7 +58,7 @@
                       </li>
                   </ul>
                   <? endif; ?>
-              </a>
+              </li>
           <!-- End Help dropdown -->
 
           <!-- Begin section user account -->
