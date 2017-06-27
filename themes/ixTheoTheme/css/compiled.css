@@ -9641,3 +9641,7 @@ section.section-home {
   border: 1px solid #ddd;
   border-radius: .25em;
 }
+.searchbar-img {
+  background: url(../../../../../../themes/ixTheoTheme/images/searchbar.jpg);
+  background-size: cover;
+}
