@@ -120,15 +120,9 @@ JS;
     ?>
     <?=$this->headScript()?>
   </head>
+
+<!-- Begin Body -->
   <body class="<?=$this->layoutClass('offcanvas-row')?><? if ($this->layout()->rtl): ?> rtl<? endif; ?>">
-    <!-- deactivated background
-    <div class="background<?=$backgroundSmallClass;?>">
-      <div class="background-stripe">
-        &nbsp;
-      </div>
-      &nbsp;
-    </div>
-    -->
     <? // Set up the search box -- there are three possible cases:
       // 1. No search box was set; we should default to the normal box
       // 2. It was set to false; we should display nothing
@@ -142,11 +136,11 @@ JS;
     <header class="hidden-print">
       <div class="container navbar">
         <a class="sr-only" href="#content"><?=$this->transEsc('Skip to content') ?></a>
-        <?=$this->render('header.phtml')?>
+        <?=$this->render('header.phtml') //include header ?>
       </div>
       <div class="container">
         <nav class="nav searchbox hidden-lg hidden-print" style="background: white; padding: 20px; border-top-left-radius: 4px; border-top-right-radius: 4px;">
-          <?=$this->layout()->searchbox ?>
+          <? //=$this->layout()->searchbox //include searchbox ?>
         </nav>
         <? if((!isset($this->layout()->showBreadcrumbs) || $this->layout()->showBreadcrumbs == true)
           && !empty($this->layout()->breadcrumbs)
