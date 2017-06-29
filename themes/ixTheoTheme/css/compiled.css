@@ -9653,12 +9653,12 @@ section.section-home {
 .vertical-center {
   transform: translateY(50%);
 }
-.nav-pills.li {
+.nav-pills .li {
   background: #ffffff;
   margin: 10px 10px 0 0;
   height: 42px;
 }
-.nav-pills.li a {
+.nav-pills .li a {
   color: #d3d4d6;
 }
 .searchbar-select {
