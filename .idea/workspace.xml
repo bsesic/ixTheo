@@ -2,174 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a7fd57-9523-479c-b4b0-36b169ff013f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/vufind/httpd-vufind.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/deletefields" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/deletefields.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/filterrecords" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/filterrecords.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getdefaultconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getdefaultconfig.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getfromsolr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getfromsolr.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getrecord" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getrecord.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/getz3950" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/hathifetch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/hathifetch.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/import.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/import.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indexfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indexfile.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indextest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indextest.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indextest2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/indextest2.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/jettystart" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/jettystart.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/jettystop" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/jettystop.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcdiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcdiff.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcerror" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcerror.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcsort" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcsort.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcupdate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/marcupdate.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/optimizesolr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/optimizesolr.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/printrecord" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/printrecord.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/setdefaultconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/setdefaultconfig.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_json.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_marc8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_marc8.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_ncr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_ncr.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_utf8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_utf8.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/to_xml.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/updatesolrserver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/bin/updatesolrserver.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local/ixTheo/config/vufind/local_overrides" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local/relBib/config/vufind/local_overrides" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/VuFind/src/VuFind/Search/Tags/Options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/VuFind/src/VuFind/Search/Tags/Params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/VuFind/src/VuFind/Search/Tags/Results.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/DEBIAN/changelog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/init.d/solr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/install_solr_service.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/oom_solr.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/post" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/solr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/solr.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/solr.in.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/bin/solr.in.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/server/solr/configsets/basic_configs/conf/_rest_managed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/server/solr/configsets/sample_techproducts_configs/conf/_rest_managed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/server/solr/configsets/sample_techproducts_configs/conf/_schema_analysis_stopwords_english.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solr/vendor/server/solr/configsets/sample_techproducts_configs/conf/_schema_analysis_synonyms_english.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_divs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_links.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_navigation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap-accessibility/partials/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_breadcrumbs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_button-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_component-animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_dropdowns.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_glyphicons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_input-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_modals.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_navs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_popovers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_progress-bars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_responsive-embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_responsive-utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_scaffolding.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_thumbnails.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/_wells.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_center-block.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_hide-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_opacity.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_progress-bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_text-overflow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/scss/vendor/font-awesome/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/admin/tags/checkbox.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/admin/tags/home.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/admin/tags/list.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/admin/tags/manage.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/admin/tags/menu.phtml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" />
@@ -201,8 +33,8 @@
       <file leaf-file-name="compiled.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="259" column="15" lean-forward="true" selection-start-line="259" selection-start-column="15" selection-end-line="259" selection-end-column="15" />
+            <state relative-caret-position="228">
+              <caret line="83" column="18" lean-forward="true" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -211,7 +43,7 @@
       <file leaf-file-name="header.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="584">
               <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding />
             </state>
@@ -221,7 +53,7 @@
       <file leaf-file-name="searchbox.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="590">
               <caret line="84" column="15" lean-forward="true" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
               <folding />
             </state>
@@ -231,10 +63,10 @@
       <file leaf-file-name="layout.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="143" column="10" lean-forward="true" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+            <state relative-caret-position="557">
+              <caret line="120" column="6" lean-forward="false" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
               <folding>
-                <element signature="e#5181#5240#0#PHP" expanded="true" />
+                <element signature="e#5256#5315#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -566,6 +398,68 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ixTheo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -770,7 +664,7 @@
       <workItem from="1498317178609" duration="2814000" />
       <workItem from="1498462246084" duration="14735000" />
       <workItem from="1498631084567" duration="4801000" />
-      <workItem from="1498766096724" duration="2243000" />
+      <workItem from="1498766096724" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in the stylesheets.">
       <created>1497995758579</created>
@@ -905,11 +799,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498768086649</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Testing header includes.">
+      <created>1498768754011</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1498768754011</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45150000" />
+    <option name="totallyTimeSpent" value="45785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -924,7 +825,7 @@
     <frame x="0" y="23" width="1901" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24475524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24475524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
@@ -998,7 +899,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1031,7 +932,7 @@
         <state relative-caret-position="1845">
           <caret line="123" column="26" lean-forward="false" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="26" />
           <folding>
-            <element signature="e#5181#5240#0#PHP" expanded="true" />
+            <element signature="e#5256#5315#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1329,25 +1230,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="259" column="15" lean-forward="true" selection-start-line="259" selection-start-column="15" selection-end-line="259" selection-end-column="15" />
+        <state relative-caret-position="584">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="83" column="18" lean-forward="true" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="590">
           <caret line="84" column="15" lean-forward="true" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
           <folding />
         </state>
@@ -1355,10 +1256,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="143" column="10" lean-forward="true" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+        <state relative-caret-position="557">
+          <caret line="120" column="6" lean-forward="false" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
           <folding>
-            <element signature="e#5181#5240#0#PHP" expanded="true" />
+            <element signature="e#5256#5315#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
