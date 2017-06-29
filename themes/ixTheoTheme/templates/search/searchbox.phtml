@@ -44,7 +44,7 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
         <?= $this->context($this)->renderInContext('search/searchTabs', ['hiddenFilters' => $hiddenFilters]); ?>
         <div class="input-group">
 
-            <div class="col-xs-6 col-sm-6 col-md-6 col-xs-6">
+            <div class="col-xs-8 col-sm-8 col-md-8 col-xs-8">
                 <input class="searchForm_lookfor form-control search-query<? if($this->searchbox()->autocompleteEnabled($this->searchClassId)):?> autocomplete searcher:<?=$this->escapeHtmlAttr($this->searchClassId) ?><? endif ?>" type="text" name="lookfor" value="<?=$this->escapeHtmlAttr($this->lookfor)?>"/>
                 <div class="input-group-btn">
                     <button class="btn btn-default" type="submit">
@@ -53,6 +53,8 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
                 </div>
             </div>
 
+
+        <div class="col-xs-2 col-sm-2 col-md-2 col-xs-2">
             <div class="input-group-btn">
                 <? if ($handlerCount > 1): ?>
                     <div class="dropdown">
@@ -66,9 +68,10 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
                     <input type="hidden" name="type" value="<?=$this->escapeHtmlAttr($handlers[0]['value'])?>" />
                 <? endif; ?>
                 <button type="submit" class="btn btn-primary search-button "><i class="fa fa-search"></i> <?=$this->transEsc("Find")?></button>
-            </div>
+            </div></div>
 
         </div>
+
         <? if ($advSearch): ?>
             <ul class="nav nav-pills">
                 <li>

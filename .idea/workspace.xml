@@ -5,8 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compiled.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="compiled.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
@@ -64,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchbox.phtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="searchbox.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            <state relative-caret-position="536">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,8 +170,8 @@
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml" />
-        <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less" />
+        <option value="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" />
       </list>
     </option>
   </component>
@@ -616,7 +614,7 @@
       <workItem from="1498317178609" duration="2814000" />
       <workItem from="1498462246084" duration="14735000" />
       <workItem from="1498631084567" duration="4801000" />
-      <workItem from="1498766096724" duration="3434000" />
+      <workItem from="1498766096724" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in the stylesheets.">
       <created>1497995758579</created>
@@ -765,11 +763,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498769436680</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Testing header includes.">
+      <created>1498770054919</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1498770054919</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46341000" />
+    <option name="totallyTimeSpent" value="46540000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1181,6 +1186,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9621" column="19" lean-forward="true" selection-start-line="9621" selection-start-column="19" selection-end-line="9621" selection-end-column="19" />
+          <folding>
+            <marker date="1498770018000" expanded="true" signature="195133:195161" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="260" column="1" lean-forward="true" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
@@ -1201,26 +1224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/css/compiled.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9621" column="19" lean-forward="true" selection-start-line="9621" selection-start-column="19" selection-end-line="9621" selection-end-column="19" />
-          <folding>
-            <marker date="1498770018000" expanded="true" signature="195133:195161" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/less/compiled.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="260" column="1" lean-forward="true" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="1" />
+        <state relative-caret-position="536">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding />
         </state>
       </provider>
