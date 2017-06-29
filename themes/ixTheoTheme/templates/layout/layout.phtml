@@ -118,10 +118,11 @@ VuFind.addTranslations({$translations});
 JS;
     $this->headScript()->appendScript($setupJS);
 
-    $this->headScript()->appendScript("css/bootstrap-select.css");
+    $this->headScript()->appendStyleSheet("css/bootstrap-select.css");
 
     ?>
     <?=$this->headScript()?>
+      <link rel="stylesheet" href="/css/bootstrap-select.css">
   </head>
 
 <!-- Begin Body -->
