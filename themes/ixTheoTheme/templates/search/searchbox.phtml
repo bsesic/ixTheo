@@ -43,19 +43,29 @@
   <form class="searchForm" method="get" action="<?=$this->url($basicSearch)?>" name="searchForm" autocomplete="off">
     <?= $this->context($this)->renderInContext('search/searchTabs', ['hiddenFilters' => $hiddenFilters]); ?>
     <div class="input-group">
+
       <input class="searchForm_lookfor form-control search-query<? if($this->searchbox()->autocompleteEnabled($this->searchClassId)):?> autocomplete searcher:<?=$this->escapeHtmlAttr($this->searchClassId) ?><? endif ?>" type="text" name="lookfor" value="<?=$this->escapeHtmlAttr($this->lookfor)?>"/>
-      <div class="input-group-btn">
+        <div class="input-group-btn">
+            <button class="btn btn-default" type="submit">
+                <i class="glyphicon glyphicon-search"></i>
+            </button>
+        </div>
+
+        <div class="input-group-btn">
         <? if ($handlerCount > 1): ?>
-          <select class="btn btn-default" name="type" data-native-menu="false" style="padding:4px 5px 5px 5px">
-            <? foreach ($handlers as $handler): ?>
-              <option value="<?=$this->escapeHtmlAttr($handler['value'])?>"<?=$handler['selected'] ? ' selected="selected"' : ''?>><?=$handler['indent'] ? '-- ' : ''?><?=$this->transEsc($handler['label'])?></option>
-            <? endforeach; ?>
-          </select>
+          <div class="dropdown">
+             <select class="selectpicker searchbar-select" name="type" data-native-menu="false">
+              <? foreach ($handlers as $handler): ?>
+               <option value="<?=$this->escapeHtmlAttr($handler['value'])?>"<?=$handler['selected'] ? ' selected="selected"' : ''?>><?=$handler['indent'] ? '-- ' : ''?><?=$this->transEsc($handler['label'])?></option>
+             <? endforeach; ?>
+            </select>
+          </div>
         <? elseif ($handlerCount == 1): ?>
           <input type="hidden" name="type" value="<?=$this->escapeHtmlAttr($handlers[0]['value'])?>" />
         <? endif; ?>
-        <button type="submit" class="btn btn-primary search-button"><i class="fa fa-search"></i> <?=$this->transEsc("Find")?></button>
+        <button type="submit" class="btn btn-primary search-button "><i class="fa fa-search"></i> <?=$this->transEsc("Find")?></button>
       </div>
+
     </div>
     <? if ($advSearch): ?>
       <ul class="nav nav-pills">

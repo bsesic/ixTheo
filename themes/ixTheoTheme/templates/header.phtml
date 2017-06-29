@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container">
     <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <? $account = $this->auth()->getManager(); ?>
@@ -109,37 +109,40 @@
 <div class="container-fluid no-padding">
     <div class="row-fluid no-padding">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
-        <!--  Begin section searchbar -->
-        <section class="visible-lg section-home">
-            <div class="panel-home">
-                <br />
-                <br />
+            <!--  Begin section searchbar -->
+            <section class="visible-lg section-home">
+                <div class="panel-home">
 
-                <!--  Begin title -->
-                <h1>
-                    <a href="<?=$this->url('home')?>" title="Index Theologicus">Index Theologicus</a>
-                </h1>
-                <small><?=$this->transEsc("ixtheo_subtitle")?></small>
-                <!-- End title -->
+                    <div class="container vertical-center">
+                    <br />
+                    <br />
 
-                <br />
-                <? if ($this->ils()->getOfflineMode() == "ils-offline"): ?>
-                    <div class="alert alert-warning">
-                        <h2><?= $this->transEsc('ils_offline_title') ?></h2>
+                    <!--  Begin title -->
+                    <h1>
+                        <a href="<?=$this->url('home')?>" title="Index Theologicus">Index Theologicus</a>
+                    </h1>
+                    <small><?=$this->transEsc("ixtheo_subtitle")?></small>
+                    <!-- End title -->
 
-                        <p><strong><?= $this->transEsc('ils_offline_status') ?></strong></p>
+                    <br />
+                    <? if ($this->ils()->getOfflineMode() == "ils-offline"): ?>
+                        <div class="alert alert-warning">
+                            <h2><?= $this->transEsc('ils_offline_title') ?></h2>
 
-                        <p><?= $this->transEsc('ils_offline_home_message') ?></p>
-                        <? $supportEmail = $this->escapeHtmlAttr($this->systemEmail()); ?>
-                        <p><a href="mailto:<?= $supportEmail ?>"><?= $supportEmail ?></a></p>
+                            <p><strong><?= $this->transEsc('ils_offline_status') ?></strong></p>
+
+                            <p><?= $this->transEsc('ils_offline_home_message') ?></p>
+                            <? $supportEmail = $this->escapeHtmlAttr($this->systemEmail()); ?>
+                            <p><a href="mailto:<?= $supportEmail ?>"><?= $supportEmail ?></a></p>
+                        </div>
+                    <? endif; ?>
+                    <div class="clearfix searchbox_home" role="search">
+                        <?=$this->layout()->searchbox ?>
                     </div>
-                <? endif; ?>
-                <div class="clearfix searchbox_home" role="search">
-                    <?=$this->layout()->searchbox ?>
-                </div>
-            </div>
+                </div><!-- close container -->
+        </div><!-- close panel-home -->
         </section>
         <!-- End section searchbar -->
-        </div><!-- close col's -->
-    </div><!-- close row -->
+    </div><!-- close col's -->
+</div><!-- close row -->
 </div><!-- close container -->

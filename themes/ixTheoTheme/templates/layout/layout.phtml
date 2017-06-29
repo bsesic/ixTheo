@@ -117,6 +117,9 @@ VuFind.defaultSearchBackend = '{$dsb}';
 VuFind.addTranslations({$translations});
 JS;
     $this->headScript()->appendScript($setupJS);
+
+    $this->headScript()->appendScript("css/bootstrap-select.css");
+
     ?>
     <?=$this->headScript()?>
   </head>
