@@ -9497,10 +9497,12 @@ section.section-home {
   background: white;
 }
 .panel-home {
-  width: 80%;
+  width: 100%;
   margin: 0 auto 0;
   background: url(../../../../../../themes/ixTheoTheme/images/searchbar.jpg);
   background-size: cover;
+  min-height: 600px;
+  margin-bottom: 30px;
 }
 .panel-home h1 {
   text-align: center;
@@ -9644,4 +9646,7 @@ section.section-home {
   line-height: 2;
   border: 1px solid #ddd;
   border-radius: .25em;
+}
+.no-padding {
+  padding: 0px;
 }
