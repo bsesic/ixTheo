@@ -42,23 +42,20 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
 <? else: ?>
     <form class="searchForm" method="get" action="<?=$this->url($basicSearch)?>" name="searchForm" autocomplete="off">
         <?= $this->context($this)->renderInContext('search/searchTabs', ['hiddenFilters' => $hiddenFilters]); ?>
-        <div class="input-group">
 
             <div class="col-xs-8 col-sm-8 col-md-8 col-xs-8">
-                <div class="input-group">
+                <div class="input-group searchbar">
                     <input class="searchForm_lookfor form-control search-query<? if($this->searchbox()->autocompleteEnabled($this->searchClassId)):?> autocomplete searcher:<?=$this->escapeHtmlAttr($this->searchClassId) ?><? endif ?>" type="text" name="lookfor" value="<?=$this->escapeHtmlAttr($this->lookfor)?>"/>
                     <span class="input-group-addon">
                         <i class="fa fa-search"></i>
-                    </span>>
+                    </span>
                 </div>
             </div>
 
-
-        <div class="col-xs-2 col-sm-2 col-md-2 col-xs-2">
-            <div class="input-group-btn">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-xs-2">
                 <? if ($handlerCount > 1): ?>
-                    <div class="dropdown">
-                        <select class="selectpicker searchbar-select" name="type" data-native-menu="false">
+                    <div class="input-group searchbar">
+                        <select class="form-control searchbar-select" name="type" data-native-menu="false">
                             <? foreach ($handlers as $handler): ?>
                                 <option value="<?=$this->escapeHtmlAttr($handler['value'])?>"<?=$handler['selected'] ? ' selected="selected"' : ''?>><?=$handler['indent'] ? '-- ' : ''?><?=$this->transEsc($handler['label'])?></option>
                             <? endforeach; ?>
@@ -67,37 +64,39 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
                 <? elseif ($handlerCount == 1): ?>
                     <input type="hidden" name="type" value="<?=$this->escapeHtmlAttr($handlers[0]['value'])?>" />
                 <? endif; ?>
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-xs-2" >
                 <button type="submit" class="btn btn-primary search-button "><i class="fa fa-search"></i> <?=$this->transEsc("Find")?></button>
-            </div></div>
-
-        </div>
+            </div>
 
         <? if ($advSearch): ?>
-            <ul class="nav nav-pills">
-                <li>
-                    <a href="<?=$this->url($advSearch) . ((isset($this->searchId) && $this->searchId) ? '?edit=' . $this->escapeHtmlAttr($this->searchId) : $hiddenFilterParams) ?>" class="btn btn-link" rel="nofollow"><?=$this->transEsc("Advanced Search")?></a>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                        <?=$this->transEsc('Browse')?> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?=$this->url('keywordchainsearch-home')?>"><?=$this->transEsc('Browse Keywordchains')?></a></li>
-                        <li><a href="<?=$this->url('browse-home')?>"><?=$this->transEsc('Browse the Catalog')?></a></li>
-                        <li><a href="<?=$this->url('alphabrowse-home')?>"><?=$this->transEsc('Browse Alphabetically')?></a></li>
-                    </ul>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-xs-12">
+                <ul class="nav nav-pills input-group">
+                    <li>
+                        <a href="<?=$this->url($advSearch) . ((isset($this->searchId) && $this->searchId) ? '?edit=' . $this->escapeHtmlAttr($this->searchId) : $hiddenFilterParams) ?>" class="btn btn-link" rel="nofollow"><?=$this->transEsc("Advanced Search")?></a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                            <?=$this->transEsc('Browse')?> <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?=$this->url('keywordchainsearch-home')?>"><?=$this->transEsc('Browse Keywordchains')?></a></li>
+                            <li><a href="<?=$this->url('browse-home')?>"><?=$this->transEsc('Browse the Catalog')?></a></li>
+                            <li><a href="<?=$this->url('alphabrowse-home')?>"><?=$this->transEsc('Browse Alphabetically')?></a></li>
+                        </ul>
 
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                        <?=$this->transEsc('Need Help?')?> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?=$this->url('help-home')?>?topic=search" data-lightbox class="help-link" title="<?=$this->transEsc('Search Tips')?>"><?=$this->transEsc('Search Tips')?></a></li>
-                        <!--<li><a href="<?=$this->url('help-faq')?>"><?=$this->transEsc('FAQs')?></a></li>-->
-                    </ul>
-                </li>
-            </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                            <?=$this->transEsc('Need Help?')?> <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?=$this->url('help-home')?>?topic=search" data-lightbox class="help-link" title="<?=$this->transEsc('Search Tips')?>"><?=$this->transEsc('Search Tips')?></a></li>
+                            <!--<li><a href="<?=$this->url('help-faq')?>"><?=$this->transEsc('FAQs')?></a></li>-->
+                        </ul>
+                    </li>
+                </ul>
+            </div>
         <? endif; ?>
 
         <? $shards = $options->getShards(); if ($options->showShardCheckboxes() && !empty($shards)): ?>

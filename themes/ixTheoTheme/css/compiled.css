@@ -9471,7 +9471,8 @@ nav > .nav > li > a {
 }
 .nav > li > a:focus,
 .nav > li > a:hover {
-  color: #3586B2;
+  color: #7B7D84;
+  background: #f6f6f7;
 }
 .blog {
   text-align: justify;
@@ -9513,12 +9514,14 @@ section.section-home {
 .panel-home h1 a {
   color: #fff;
   text-decoration: none;
+  text-shadow: 4px 4px 10px #323232;
 }
 .panel-home small {
   display: block;
   text-align: center;
   margin: 5px 0 auto;
   color: #fff;
+  text-shadow: 2px 2px 5px #323232;
 }
 .panel-home .checkbox {
   display: inline;
@@ -9647,20 +9650,46 @@ section.section-home {
   border: 1px solid #ddd;
   border-radius: .25em;
 }
+/* for the searchbox */
 .no-padding {
   padding: 0px;
 }
 .vertical-center {
   transform: translateY(50%);
 }
-.nav-pills .li {
+.nav-pills li {
   background: #ffffff;
   margin: 10px 10px 0 0;
-  height: 42px;
+  box-shadow: 2px 2px 5px #323232;
 }
-.nav-pills .li a {
-  color: #d3d4d6;
+.nav-pills li a {
+  color: #7B7D84;
+  padding: 6px 12px;
+  font-size: 16px;
+  border: none;
 }
-.searchbar-select {
-  margin: 0 10px 0 10px;
+.nav-pills li a:hover {
+  color: #7B7D84;
+}
+.searchbar {
+  box-shadow: 2px 2px 10px #323232;
+}
+.searchbar .searchbar-select {
+  margin: 0 10px 0 0;
+  color: #7B7D84;
+}
+.search-button {
+  box-shadow: 2px 2px 10px #323232;
+}
+ul .dropdown-menu {
+  padding: 0;
+}
+.dropdown-menu li {
+  box-shadow: none;
+  margin: 0;
+}
+.dropdown-menu > .active a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background: #9fa0a5;
 }
