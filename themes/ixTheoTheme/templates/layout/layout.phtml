@@ -188,8 +188,10 @@ JS;
 
     <footer class="hidden-print">
       <div class="container">
+          <?=$this->render('supporters.phtml')?>
+          <?=$this->render('bottom.phtml')?>
         <?=$this->render('footer.phtml')?>
-        <?=$this->layout()->poweredBy ?>
+        <?//=$this->layout()->poweredBy ?>
       </div>
     </footer>
     <!-- MODAL IN CASE WE NEED ONE -->

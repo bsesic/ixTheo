@@ -9693,3 +9693,24 @@ ul .dropdown-menu {
 .dropdown-menu > .active > a:focus {
   background: #9fa0a5;
 }
+hr {
+  border-top: 1px solid #f6f6f7;
+}
+.bottom-menu li {
+  list-style-type: none;
+}
+.bottom-menu li a,
+.bottom-menu li a:hover {
+  color: #7B7D84;
+  text-decoration: none;
+}
+.footer-menu li {
+  list-style-type: none;
+  margin: 0 10px;
+  display: inline;
+}
+.footer-menu li a,
+.footer-menu li a:hover {
+  color: #7B7D84;
+  text-decoration: none;
+}
