@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Todo
 - Font Awesome
 - header.phtml changed
+- supporters.phtml -> displays all the supporters.
+- information.phtml -> shows 8 information blocks.
 
 
 ### Changed
@@ -20,11 +22,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - variables.less
     * background
--
+- 
 
 ### Removed
 - compile.css from gitignore
-
+- Feedback button from layout.phtml
+ 
 
 
 

@@ -325,6 +325,9 @@ hr {
 
 .bottom-menu li {
   list-style-type: none;
+  font-weight: bold;
+  line-height: 28px; //FIXME: in variables.less
+  font-size: 14px; //FIXME: use em & in variables.less
 
   a, a:hover{
     color: @gray-base;
@@ -341,4 +344,160 @@ hr {
     color: @gray-base;
     text-decoration: none;
   }
+}
+
+
+/* Home Information */
+
+.background-lightblue {
+  background: @background-light;
+}
+
+/* Panels */
+.panel-inverse{
+  background-color: @panel-inverse;
+  color: #fff;
+  border: 0;
+}
+
+.panel {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.panel-image-wrapper {
+  max-height: 205px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.panel-image {
+  //display: block;
+  //height: 100%;
+  width: 100%;
+  height: auto;
+}
+
+.panel-content {
+  padding: 10px;
+
+}
+
+.panel-inverse .panel-content h4{
+  text-transform: uppercase;
+}
+
+.panel-content .btn-inverse {
+  background-color: #32414B;
+  color: #fff;
+  bottom: 0;
+  position: absolute;
+  margin-bottom: 10px;
+  &::after {
+    font-family: fontAwesome;
+    content: "\00a0\00a0\f061";
+  }
+  &:hover {
+    color: #fff;
+  }
+}
+
+.btn-default {
+  border-color: @brand-primary;
+  color: @brand-primary;
+}
+
+.panel-content .btn-default {
+  border-color: @brand-primary;
+  color: @brand-primary;
+  bottom: 0;
+  position: absolute;
+  margin-bottom: 10px;
+  &::after {
+    font-family: fontAwesome;
+    content: "\00a0\00a0\f061";
+  }
+  &:hover {
+    color: @brand-primary;
+  }
+}
+.panel-buttons {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0;
+  width: 23%; //FIXME
+  height: 400px; //FIXME
+}
+
+.panel-button {
+  height: 23%; //FIXME
+  width: 100%;
+  margin: 0 0 10px;
+  padding: 0;
+  a {
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 100%;
+    align-content: center;
+    height: 100%;
+    display: flex;
+    vertical-align: middle;
+    line-height: normal;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+}
+
+.panel-top {
+  height: 400px;
+  width: 23%; //FIXME
+}
+
+.panel-bottom {
+  height: 380px;
+  width: 23%; //FIXME
+}
+
+/* Read more button */
+.read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Mehr';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Weniger';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
 }

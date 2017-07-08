@@ -174,17 +174,13 @@ JS;
         <? endif; ?>
       </div>
     </header>
+
     <div role="main" class="main template-dir-<?=$this->templateDir?> template-name-<?=$this->templateName?>">
-      <div id="content" class="container">
-        <?=$this->layout()->content ?>
+      <div id="content" class="">
+        <?//=$this->layout()->content ?>
+        <?=$this->render('information.phtml')?>
       </div>
     </div>
-
-    <!-- Feedback box deactivated
-    <div style="position: fixed; bottom: 0; right: 0;padding: 8px 0px">
-      <a href="/Feedback/home" data-lightbox style="padding: 10px 20px; border:1px solid darkgray; border-radius: 2px;"><? //=$this->transEsc("Feedback");?></a>
-    </div>
-    -->
 
     <footer class="hidden-print">
       <div class="container">

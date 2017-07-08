@@ -9698,6 +9698,9 @@ hr {
 }
 .bottom-menu li {
   list-style-type: none;
+  font-weight: bold;
+  line-height: 28px;
+  font-size: 14px;
 }
 .bottom-menu li a,
 .bottom-menu li a:hover {
@@ -9713,4 +9716,136 @@ hr {
 .footer-menu li a:hover {
   color: #7B7D84;
   text-decoration: none;
+}
+/* Home Information */
+.background-lightblue {
+  background: rgba(109, 176, 255, 0.1);
+}
+/* Panels */
+.panel-inverse {
+  background-color: #686B74;
+  color: #fff;
+  border: 0;
+}
+.panel {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0;
+  overflow: hidden;
+}
+.panel-image-wrapper {
+  max-height: 205px;
+  width: 100%;
+  overflow: hidden;
+}
+.panel-image {
+  width: 100%;
+  height: auto;
+}
+.panel-content {
+  padding: 10px;
+}
+.panel-inverse .panel-content h4 {
+  text-transform: uppercase;
+}
+.panel-content .btn-inverse {
+  background-color: #32414B;
+  color: #fff;
+  bottom: 0;
+  position: absolute;
+  margin-bottom: 10px;
+}
+.panel-content .btn-inverse::after {
+  font-family: fontAwesome;
+  content: "\00a0\00a0\f061";
+}
+.panel-content .btn-inverse:hover {
+  color: #fff;
+}
+.btn-default {
+  border-color: #3586B2;
+  color: #3586B2;
+}
+.panel-content .btn-default {
+  border-color: #3586B2;
+  color: #3586B2;
+  bottom: 0;
+  position: absolute;
+  margin-bottom: 10px;
+}
+.panel-content .btn-default::after {
+  font-family: fontAwesome;
+  content: "\00a0\00a0\f061";
+}
+.panel-content .btn-default:hover {
+  color: #3586B2;
+}
+.panel-buttons {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0;
+  width: 23%;
+  height: 400px;
+}
+.panel-button {
+  height: 23%;
+  width: 100%;
+  margin: 0 0 10px;
+  padding: 0;
+}
+.panel-button a {
+  font-size: 1.5em;
+  font-weight: bold;
+  width: 100%;
+  align-content: center;
+  height: 100%;
+  display: flex;
+  vertical-align: middle;
+  line-height: normal;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.panel-top {
+  height: 400px;
+  width: 23%;
+}
+.panel-bottom {
+  height: 380px;
+  width: 23%;
+}
+/* Read more button */
+.read-more-state {
+  display: none;
+}
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+}
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Mehr';
+}
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Weniger';
+}
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
 }
