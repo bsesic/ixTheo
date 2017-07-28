@@ -1,0 +1,6 @@
+{
+    "require": {
+		"twig/twig": "~2.0",
+        "api-clients/middleware": "^4.0"
+	}
+}

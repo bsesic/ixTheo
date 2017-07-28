@@ -137,6 +137,7 @@ JS;
         $this->layout()->searchbox = $this->render('search/searchbox.phtml');
       }
     ?>
+
     <header class="hidden-print">
       <div class="container-fluid no-padding">
         <? //<a class="sr-only" href="#content"><?=$this->transEsc('Skip to content') </a>
@@ -177,8 +178,8 @@ JS;
 
     <div role="main" class="main template-dir-<?=$this->templateDir?> template-name-<?=$this->templateName?>">
       <div id="content" class="">
-        <?//=$this->layout()->content ?>
-        <?=$this->render('information.phtml')?>
+        <?=$this->layout()->content ?>
+        <?//=$this->render('information.phtml')?>
       </div>
     </div>
 

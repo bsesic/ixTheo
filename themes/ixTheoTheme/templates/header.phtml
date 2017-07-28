@@ -42,6 +42,7 @@
                                 <i class="fa fa-question-circle" aria-hidden="true"></i> Help<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="A-Z"> IxTheo A-Z</a></li>
+                                <li><a href="/Typography"> Typography</a></li>
                                 <? if ($this->feedback()->tabEnabled()): ?>
                                     <li>
                                         <a id="feedbackLink" class="modal-link" href="<?= $this->url('feedback-home') ?>"><i
@@ -106,43 +107,6 @@
 </div><!-- close row -->
 </div><!-- close container -->
 
-<div class="container-fluid no-padding">
-    <div class="row-fluid no-padding">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no-padding">
-            <!--  Begin section searchbar -->
-            <section class="visible-lg section-home">
-                <div class="panel-home">
-
-                    <div class="container vertical-center">
-                    <br />
-                    <br />
-
-                    <!--  Begin title -->
-                    <h1>
-                        <a href="<?=$this->url('home')?>" title="Index Theologicus">Index Theologicus</a>
-                    </h1>
-                    <small><?=$this->transEsc("ixtheo_subtitle")?></small>
-                    <!-- End title -->
-
-                    <br />
-                    <? if ($this->ils()->getOfflineMode() == "ils-offline"): ?>
-                        <div class="alert alert-warning">
-                            <h2><?= $this->transEsc('ils_offline_title') ?></h2>
-
-                            <p><strong><?= $this->transEsc('ils_offline_status') ?></strong></p>
-
-                            <p><?= $this->transEsc('ils_offline_home_message') ?></p>
-                            <? $supportEmail = $this->escapeHtmlAttr($this->systemEmail()); ?>
-                            <p><a href="mailto:<?= $supportEmail ?>"><?= $supportEmail ?></a></p>
-                        </div>
-                    <? endif; ?>
-                    <div class="clearfix searchbox_home" role="search">
-                        <?=$this->layout()->searchbox ?>
-                    </div>
-                </div><!-- close container -->
-        </div><!-- close panel-home -->
-        </section>
-        <!-- End section searchbar -->
-    </div><!-- close col's -->
-</div><!-- close row -->
-</div><!-- close container -->
+<!--  Begin seachbox -->
+<?=$this->layout()->searchbox ?>
+<!--  End seachbox -->
