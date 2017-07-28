@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a7fd57-9523-479c-b4b0-36b169ff013f" name="Default" comment="Add typography page. Refactor searchbox. Remove home.phtml (backup). Refactor information.phtml to home.phtml in German language folder.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/bac.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/passwords.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/create.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/delete.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/footer.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/header.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/login.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/main.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/rename.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/sidebar.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/views/update.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/static/de/Typography.phtml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/information.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/static/de/Home.phtml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/static/de/Home.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/static/de/bac.Home.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ixTheo.iml" afterPath="$PROJECT_DIR$/.idea/ixTheo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/css/bootstrap-select.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/header.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/layout/layout.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoTheme/templates/search/searchbox.phtml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1128,28 +1100,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="0">
               <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controller.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="controller.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1734,7 +1696,7 @@
       <workItem from="1500665090504" duration="2230000" />
       <workItem from="1500710386145" duration="3079000" />
       <workItem from="1500735427855" duration="10226000" />
-      <workItem from="1501228019841" duration="144000" />
+      <workItem from="1501228019841" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in the stylesheets.">
       <created>1497995758579</created>
@@ -1950,7 +1912,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100050000" />
+    <option name="totallyTimeSpent" value="100640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1967,12 +1929,13 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33741647" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207127" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2815534" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.734375" sideWeight="0.21498372" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40124094" sideWeight="0.7850163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40124094" sideWeight="0.7850163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24114583" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959655" sideWeight="0.48675495" order="1" side_tool="false" content_ui="tabs" />
@@ -1984,7 +1947,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32135922" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2342,24 +2304,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
+        <state relative-caret-position="0">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        <state relative-caret-position="21">
+          <caret line="97" column="5" lean-forward="false" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding />
         </state>
       </provider>
