@@ -1,0 +1,3 @@
+[submodule "themes/ixTheoThemeNew/site-generator"]
+	path = themes/ixTheoThemeNew/site-generator
+	url = https://github.com/bsesic/ixTheoSiteGenerator.git
