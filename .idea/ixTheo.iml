@@ -7,16 +7,16 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/site-generator/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/site-generator/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/ixTheoSiteGenerator/composer.phar/" />
           <root url="phar://$MODULE_DIR$/phpunit.phar/" />
           <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/ixTheoSiteGenerator/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/site-generator/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/site-generator/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/ixTheoSiteGenerator/composer.phar/" />
           <root url="phar://$MODULE_DIR$/phpunit.phar/" />
           <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/themes/ixTheoThemeNew/ixTheoSiteGenerator/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
         </SOURCES>
       </library>
     </orderEntry>

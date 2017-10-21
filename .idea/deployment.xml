@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="ixTheo" stopOnFirstError="true" createEmptyFolders="true" traceLevel="ERRORS" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="ixTheo Mac" stopOnFirstError="true" createEmptyFolders="true" traceLevel="ERRORS" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="ixTheo">
+      <paths name="ixTheo Mac">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/themes/ixTheoThemeNew" local="$PROJECT_DIR$/themes/ixTheoThemeNew/" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ixTheo Windows">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
