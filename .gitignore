@@ -230,3 +230,31 @@ typings/
 
 # dotenv environment variables file
 .env
+/components/
+/data/
+/harvest/
+/build.xml
+/solr.sh
+/import-marc.bat
+/import-marc-auth.sh
+/index-alphabetic-browse.sh
+/solr.bat
+/index-alphabetic-browse.bat
+/.eslintrc.js
+/install.php
+/.travis.yml
+/import-marc-auth.bat
+/package-lock.json
+/import-marc.sh
+/phpunit.phar
+/util/
+/tests/
+/solr/
+/local/
+/node_modules/
+/languages/
+/module/
+/config/
+/packages/
+/public/
+/import/
