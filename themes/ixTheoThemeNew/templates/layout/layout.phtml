@@ -171,10 +171,14 @@ JS;
       </div>
     </header>
 
-    <div role="main" class="main template-dir-<?=$this->templateDir?> template-name-<?=$this->templateName?>">
-      <div id="content" class="">
-        <?=$this->layout()->content ?>
-      </div>
+    <div class="row">
+        <div class="col-12 pt-5 pb-5 justify-content-center">
+            <div role="main" class="main template-dir-<?=$this->templateDir?> template-name-<?=$this->templateName?>">
+              <div id="content" class="">
+                <?=$this->layout()->content ?>
+              </div>
+            </div>
+        </div>
     </div>
 
     <footer class="hidden-print">

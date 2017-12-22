@@ -1,389 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78a7fd57-9523-479c-b4b0-36b169ff013f" name="Default" comment="Changed to Bootstrap 4.&#10;Responsivness improved.&#10;New header image.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/FA125082_UT.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/amador-loureiro-779.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/aris-sfakianakis-236839.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/averie-woodard-111822.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/ben-white-126974.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/ben-white-131241.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/bruno-martins-25865.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/caleb-woods-328840.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/chris-lawton-236413.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/chris-lawton-236416.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/chuttersnap-297550.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/chuttersnap-297554.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/chuttersnap-344467.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/cristina-gottardi-224975.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/eli-francis-100644.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/eugenio-mazzone-190204.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/amos-bar-zeev-138099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/ben-white-138093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/kelly-sikkema-399338.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/mr-cup-fabien-barral-86069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/mr-cup-fabien-barral-86075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/favorites/raphael-schaller-88040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/glen-noble-18012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/helloquence-51716.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/hikersbay-hikersbay-3503.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/idan-arad-384872.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/jamie-saw-26902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/janko-ferlic-174927.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/jeremy-bishop-256594.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/joanna-kosinska-131081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/joanna-kosinska-44214.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/joel-filipe-370539.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/kazuend-71543.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/kelly-sikkema-290463.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/kelly-sikkema-382044.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/kobu-agency-387557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/les-jay-307974.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/marc-marchal-406853.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/marco-djallo-127113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/marcus-depaula-43304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/maxime-le-conte-des-floris-151374.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/mona-eendra-208388.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/niv-rozenberg-368371.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/paul-gilmore-145802.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/rodney-truitt-jr-252364.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/samuel-zeller-250040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/scott-webb-186122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/scott-webb-208072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/steinar-engeland-157884.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/taylor-leopold-382718.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/vitaliy-paykov-388848.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/xavier-teo-275318.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/header/yair-aronshtam-105861.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/searchbar6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/.sass-cache/439e71e529d78a50f6f0e9b2233c279f7a0c08a4/compiled.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/.sass-cache/439e71e529d78a50f6f0e9b2233c279f7a0c08a4/variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/.sass-cache/e99bd7b3addaeaf94db4a4ad08814be641d40208/bootstrap.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/emacs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/css/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/ixTheoSiteGenerator" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/bootstrap-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/bootstrap.min-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/en/Typography.phtml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/images/FA125082_UT.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/less/font-awesome/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/css/bootstrap-select.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/css/bootstrap-select.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/css/bootstrap-select.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/bootstrap-select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/bootstrap-select.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/bootstrap-select.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ar_AR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ar_AR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-bg_BG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-bg_BG.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-cro_CRO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-cro_CRO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-cs_CZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-cs_CZ.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-da_DK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-da_DK.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-de_DE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-de_DE.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-en_US.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-en_US.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-es_CL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-es_CL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-es_ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-es_ES.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-eu.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fa_IR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fa_IR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fi_FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fi_FI.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fr_FR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-fr_FR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-hu_HU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-hu_HU.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-id_ID.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-id_ID.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-it_IT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-it_IT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ko_KR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ko_KR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-lt_LT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-lt_LT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-nb_NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-nb_NO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-nl_NL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-nl_NL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pl_PL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pl_PL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pt_BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pt_BR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pt_PT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-pt_PT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ro_RO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ro_RO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ru_RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ru_RU.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sk_SK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sk_SK.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sl_SI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sl_SI.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sv_SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-sv_SE.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-tr_TR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-tr_TR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ua_UA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-ua_UA.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-zh_CN.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/dist/js/i18n/defaults-zh_TW.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/convertizer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/estimateit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/membermeister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/snapappointments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/solveforall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/img/logos/thermofisher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/js/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/custom_theme/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/css/bootstrap-select.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/css/bootstrap-select.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/css/bootstrap-select.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/bootstrap-select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/bootstrap-select.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/bootstrap-select.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ar_AR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ar_AR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-bg_BG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-bg_BG.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-cro_CRO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-cro_CRO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-cs_CZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-cs_CZ.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-da_DK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-da_DK.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-de_DE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-de_DE.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-en_US.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-en_US.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-es_CL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-es_CL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-es_ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-es_ES.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-eu.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fa_IR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fa_IR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fi_FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fi_FI.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fr_FR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-fr_FR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-hu_HU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-hu_HU.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-id_ID.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-id_ID.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-it_IT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-it_IT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ko_KR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ko_KR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-lt_LT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-lt_LT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-nb_NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-nb_NO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-nl_NL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-nl_NL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pl_PL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pl_PL.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pt_BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pt_BR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pt_PT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-pt_PT.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ro_RO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ro_RO.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ru_RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ru_RU.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sk_SK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sk_SK.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sl_SI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sl_SI.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sv_SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-sv_SE.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-tr_TR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-tr_TR.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ua_UA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-ua_UA.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-zh_CN.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/dist/js/i18n/defaults-zh_TW.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/examples.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/methods.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/options.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/playground/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/playground/plnkrOpener.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/docs/playground/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/docs/mkdocs.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/bootstrap-select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-ar_AR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-bg_BG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-cro_CRO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-cs_CZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-da_DK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-de_DE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-en_US.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-es_CL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-es_ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-fa_IR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-fi_FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-fr_FR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-hu_HU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-id_ID.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-it_IT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-ko_KR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-lt_LT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-nb_NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-nl_NL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-pl_PL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-pt_BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-pt_PT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-ro_RO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-ru_RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-sk_SK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-sl_SI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-sv_SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-tr_TR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-ua_UA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/js/i18n/defaults-zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/less/bootstrap-select.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/nuget/MyGet.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/nuget/bootstrap-select.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/sass/bootstrap-select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/sass/variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/bootstrap-select-1.12.2/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0.zip" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/HELP-US-OUT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/src/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/bower_components/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ixTheo.iml" afterPath="$PROJECT_DIR$/.idea/ixTheo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/README.md" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/font-awesome.css" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/footer.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/footer.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/header.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/header.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Home.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Home.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Impressum.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Impressum.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/supporters.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/supporters.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/theme.config.php" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/theme.config.php" />
+    <list default="true" id="78a7fd57-9523-479c-b4b0-36b169ff013f" name="Default" comment="Updates in the css.">
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap-reboot.css.map" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/ixTheo.iml" afterPath="$PROJECT_DIR$/.idea/ixTheo.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" afterPath="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -392,7 +23,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="697a8a8d-2fba-404c-8201-759fe7962a33" synchronizationState="DONT_SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" executionDataType="PHAR" phpInterpreterId="697a8a8d-2fba-404c-8201-759fe7962a33" synchronizationState="DONT_SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
   </component>
@@ -1481,7 +1112,7 @@
       <file leaf-file-name="header.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="240">
               <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
               <folding>
                 <element signature="e#4149#5810#0#PHP" expanded="false" />
@@ -1490,56 +1121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/js/scripts.js">
+      <file leaf-file-name="theme.config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/theme.config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compiled.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="505" column="1" lean-forward="false" selection-start-line="505" selection-start-column="1" selection-end-line="505" selection-end-column="1" />
-              <folding>
-                <element signature="e#70#155#0" expanded="false" />
-                <element signature="e#169#393#0" expanded="false" />
-                <element signature="e#413#433#0" expanded="false" />
-                <element signature="e#454#689#0" expanded="false" />
-                <element signature="e#795#846#0" expanded="false" />
-                <element signature="e#856#882#0" expanded="false" />
-                <element signature="e#1082#1101#0" expanded="false" />
-                <element signature="e#1115#1134#0" expanded="false" />
-                <element signature="e#1927#1953#0" expanded="false" />
-                <element signature="e#2023#2090#0" expanded="false" />
-                <element signature="e#2107#2151#0" expanded="false" />
-                <element signature="e#2190#2213#0" expanded="false" />
-                <element signature="e#2228#2251#0" expanded="false" />
-                <element signature="e#2334#2374#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Impressum.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Impressum.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Home.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="57" lean-forward="false" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1548,7 +1134,7 @@
       <file leaf-file-name="searchbox.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
+            <state relative-caret-position="2295">
               <caret line="153" column="104" lean-forward="false" selection-start-line="153" selection-start-column="104" selection-end-line="153" selection-end-column="104" />
               <folding>
                 <marker date="1508615914000" expanded="true" signature="8336:12518" ph="..." />
@@ -1567,21 +1153,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.phtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="layout.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="176" column="12" lean-forward="false" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
+            <state relative-caret-position="735">
+              <caret line="211" column="78" lean-forward="false" selection-start-line="211" selection-start-column="78" selection-end-line="211" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Home.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/en/Home.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="231" column="4" lean-forward="false" selection-start-line="231" selection-start-column="4" selection-end-line="231" selection-end-column="4" />
+            <state relative-caret-position="660">
+              <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -1591,11 +1177,21 @@
         <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="72" lean-forward="false" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TODO.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/TODO.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1683,7 +1279,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/ixTheoTheme/README.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/less/bootstrap.less" />
         <option value="&lt;4d8fd1f4-39a3-4c2f-9000-00fe3b3dd743&gt;/themes/ixTheoTheme/templates/header.phtml" />
@@ -1717,10 +1312,8 @@
         <option value="$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php" />
         <option value="&lt;01d1e84b-8181-4a9c-9232-db7f7d5948de&gt;/local/ixTheo/config/vufind/config.ini" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/less/compiled.less" />
-        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/variables.scss" />
-        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/README.md" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/supporters.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css" />
         <option value="$PROJECT_DIR$/info.php" />
@@ -1729,11 +1322,14 @@
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Impressum.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.scss" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/js/scripts.js" />
-        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/header.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml" />
         <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/footer.phtml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/README.md" />
+        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/TODO.md" />
+        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js" />
+        <option value="$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml" />
       </list>
     </option>
   </component>
@@ -1846,6 +1442,110 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap-select.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="less" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="de" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fr" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches">
         <subPane>
           <expand>
@@ -1871,40 +1571,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ixTheo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ixTheoThemeNew" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bower_components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ixTheo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1952,20 +1618,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
-      <node-interpreter value="/usr/local/bin/node" />
+  <component name="RunManager" selected="Gulp.js.bootstrap">
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
       <envs />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>/usr/local/Cellar/node/8.7.0/bin/node</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4d8fd1f4-39a3-4c2f-9000-00fe3b3dd743" server_name="ixTheo" />
     <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
       <method />
     </configuration>
@@ -2052,13 +1710,8 @@
       <PhpTestRunnerSettings />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4d8fd1f4-39a3-4c2f-9000-00fe3b3dd743" server_name="ixTheo" />
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="ReactNative" factoryName="React Native">
-      <node-interpreter value="project" />
-      <platform value="ANDROID" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -2099,6 +1752,18 @@
       <test-directory />
       <recursive>false</recursive>
       <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="/usr/local/bin/node" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>/usr/local/Cellar/node/8.7.0/bin/node</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
     <configuration name="bootstrap-sass" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
       <node-interpreter>/usr/local/Cellar/node/8.7.0/bin/node</node-interpreter>
@@ -2159,10 +1824,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gulp.js.popper" />
-        <item index="1" class="java.lang.String" itemvalue="Gulp.js.jquery" />
-        <item index="2" class="java.lang.String" itemvalue="Gulp.js.compile-theme" />
-        <item index="3" class="java.lang.String" itemvalue="Gulp.js.bootstrap-sass" />
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.compile-theme" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.bootstrap-sass" />
+        <item index="2" class="java.lang.String" itemvalue="Gulp.js.popper" />
+        <item index="3" class="java.lang.String" itemvalue="Gulp.js.jquery" />
         <item index="4" class="java.lang.String" itemvalue="Gulp.js.bootstrap" />
       </list>
     </recent_temporary>
@@ -2208,7 +1873,12 @@
       <workItem from="1508240755968" duration="122000" />
       <workItem from="1508422560515" duration="7977000" />
       <workItem from="1508482441787" duration="24408000" />
-      <workItem from="1508590316396" duration="15447000" />
+      <workItem from="1508590316396" duration="15654000" />
+      <workItem from="1510067294358" duration="106000" />
+      <workItem from="1513588426601" duration="3908000" />
+      <workItem from="1513715198087" duration="846000" />
+      <workItem from="1513799283364" duration="315000" />
+      <workItem from="1513945833190" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="Changes in the stylesheets.">
       <created>1497995758579</created>
@@ -2427,11 +2097,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501228854594</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Changed to Bootstrap 4.&#10;Responsivness improved.&#10;New header image.">
+      <created>1508617279290</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1508617279290</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163287000" />
+    <option name="totallyTimeSpent" value="168787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2444,18 +2121,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="23" width="1869" height="987" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33661202" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28139013" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22550629" sideWeight="0.2780269" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22550629" sideWeight="0.7219731" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22988506" sideWeight="0.3026906" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22988506" sideWeight="0.69730943" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22550629" sideWeight="0.2780269" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24114583" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958949" sideWeight="0.48675495" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23958333" sideWeight="0.5145631" order="4" side_tool="true" content_ui="tabs" />
@@ -2464,6 +2140,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2508,7 +2185,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Changes in the stylesheets." />
     <MESSAGE value="Kaldi added to header." />
     <MESSAGE value="Testing css implementation." />
     <MESSAGE value="Background deactivated." />
@@ -2532,7 +2208,9 @@
     <MESSAGE value="Start page information blocks added." />
     <MESSAGE value="Add typography page. Refactor searchbox. Remove home.phtml (backup). Refactor information.phtml to home.phtml in German language folder." />
     <MESSAGE value="Add site generator." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add site generator." />
+    <MESSAGE value="Changed to Bootstrap 4.&#10;Responsivness improved.&#10;New header image." />
+    <MESSAGE value="Updates in the css." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates in the css." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2541,8 +2219,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/route.php" />
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoTheme/site-generator/controller.php" />
     <entry file="file://$PROJECT_DIR$/solr.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -2561,7 +2237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2580,7 +2255,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6569">
           <caret line="460" column="1" lean-forward="false" selection-start-line="460" selection-start-column="1" selection-end-line="460" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2588,15 +2262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2604,14 +2269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -2619,9 +2276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2646,26 +2300,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/TODO.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="215" column="41" lean-forward="true" selection-start-line="215" selection-start-column="41" selection-end-line="215" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2680,7 +2318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2688,7 +2325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2696,7 +2332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2704,7 +2339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2726,15 +2360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="6425" column="14" lean-forward="false" selection-start-line="6425" selection-start-column="14" selection-end-line="6425" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2742,7 +2367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2750,7 +2374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2758,7 +2381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2766,7 +2388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2791,43 +2412,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/theme.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="72" lean-forward="false" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bootstrap3/templates/error/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/ixTheo Bilder">
-      <provider selected="true" editor-type-id="directory.editor">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ixTheo Bilder" />
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/de/Impressum.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2835,47 +2431,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="60" column="57" lean-forward="false" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="224" column="22" lean-forward="true" selection-start-line="224" selection-start-column="22" selection-end-line="224" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/scss/bootstrap/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/TODO.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/scss/compiled.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="505" column="1" lean-forward="false" selection-start-line="505" selection-start-column="1" selection-end-line="505" selection-end-column="1" />
-          <folding>
-            <element signature="e#70#155#0" expanded="false" />
-            <element signature="e#169#393#0" expanded="false" />
-            <element signature="e#413#433#0" expanded="false" />
-            <element signature="e#454#689#0" expanded="false" />
-            <element signature="e#795#846#0" expanded="false" />
-            <element signature="e#856#882#0" expanded="false" />
-            <element signature="e#1082#1101#0" expanded="false" />
-            <element signature="e#1115#1134#0" expanded="false" />
-            <element signature="e#1927#1953#0" expanded="false" />
-            <element signature="e#2023#2090#0" expanded="false" />
-            <element signature="e#2107#2151#0" expanded="false" />
-            <element signature="e#2190#2213#0" expanded="false" />
-            <element signature="e#2228#2251#0" expanded="false" />
-            <element signature="e#2334#2374#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="675">
+          <caret line="85" column="14" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="20" column="62" lean-forward="true" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/css/variables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="5" column="1748" lean-forward="true" selection-start-line="5" selection-start-column="1748" selection-end-line="5" selection-end-column="1748" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="240">
           <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding>
             <element signature="e#4149#5810#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/css/compiled.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="5" column="4341" lean-forward="true" selection-start-line="5" selection-start-column="4341" selection-end-line="5" selection-end-column="4341" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="104" lean-forward="false" selection-start-line="153" selection-start-column="104" selection-end-line="153" selection-end-column="104" />
+          <folding>
+            <marker date="1508615914000" expanded="true" signature="8336:12518" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2888,28 +2537,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/search/searchbox.phtml">
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/static/en/Home.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="153" column="104" lean-forward="false" selection-start-line="153" selection-start-column="104" selection-end-line="153" selection-end-column="104" />
-          <folding>
-            <marker date="1508615914000" expanded="true" signature="8336:12518" ph="..." />
-          </folding>
+        <state relative-caret-position="660">
+          <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/theme.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ixTheoThemeNew/templates/layout/layout.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="176" column="12" lean-forward="false" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="231" column="4" lean-forward="false" selection-start-line="231" selection-start-column="4" selection-end-line="231" selection-end-column="4" />
+        <state relative-caret-position="735">
+          <caret line="211" column="78" lean-forward="false" selection-start-line="211" selection-start-column="78" selection-end-line="211" selection-end-column="78" />
           <folding />
         </state>
       </provider>

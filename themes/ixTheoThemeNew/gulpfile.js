@@ -25,7 +25,7 @@ gulp.task('bootstrap', function() {
  * Bootstrap4 does not include less anymore.
  * Get Sass files.
  *
- *******************
+ ***********************************************
  */
 
 gulp.task('bootstrap-sass', function() {
@@ -56,7 +56,7 @@ gulp.task('font-awesome', function() {
  * Compiles the complete theme,
  * including bootstrap.
  *
- *******************
+ *********************************
  */
 
 
