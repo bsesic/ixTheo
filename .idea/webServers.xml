@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01d1e84b-8181-4a9c-9232-db7f7d5948de" name="ixTheo Windows" url="http://vufind">
+        <fileTransfer host="vufind" port="22" rootFolder="/usr/local/vufind" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4ceb865f-f9bd-4a6a-bb99-365193637bfd" name="ixTheo Mac" url="http://localhost:8888">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/usr/local/vufind" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

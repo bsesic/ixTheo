@@ -1,0 +1,36 @@
+{
+  "requires": true,
+  "lockfileVersion": 0,
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "gulp-sftp": "^0.1.5"
+  },
+  "name": "ixtheo",
+  "description": "[![Build Status](https://travis-ci.org/vufind-org/vufind.svg?branch=master)](https://travis-ci.org/vufind-org/vufind) VuFind ======",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "gulp-ssh": "^0.6.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubtue/ixTheo.git"
+  },
+  "keywords": [
+    "ixtheo",
+    "vufind",
+    "solr"
+  ],
+  "author": "ixTheo team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubtue/ixTheo/issues"
+  },
+  "homepage": "https://github.com/ubtue/ixTheo#readme"
+}

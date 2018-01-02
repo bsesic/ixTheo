@@ -2,6 +2,10 @@
 use Zend\Loader\AutoloaderFactory;
 use Zend\ServiceManager\ServiceManager;
 use Zend\Mvc\Service\ServiceManagerConfig;
+//Error reporting added 28.12.2017 13:07
+
+error_reporting( E_ALL & ~E_NOTICE);
+ini_set('display_errors', true);
 
 // If the XHProf profiler is enabled, set it up now:
 $xhprof = getenv('VUFIND_PROFILER_XHPROF');

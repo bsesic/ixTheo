@@ -21,8 +21,6 @@ tlog.*
 *.log
 *.log.1
 
-# Compiled CSS
-compiled.css
 
 # Server specific configuration files
 httpd-vufind.conf
@@ -65,3 +63,5 @@ composer.phar
 import/solrmarc.log
 node_modules
 phpinfo.php
+!/themes/ixTheoThemeNew/css/
+!/themes/ixTheoThemeNew/css/compiled.css
