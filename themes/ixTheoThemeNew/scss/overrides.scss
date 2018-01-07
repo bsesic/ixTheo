@@ -58,7 +58,6 @@ a.navbar-brand, nav > .nav > li > a {
 }
 
 
-
 .blog {
   text-align: justify;
 }
@@ -69,10 +68,11 @@ a.navbar-brand, nav > .nav > li > a {
 }
 
 .badge {
-  background-color: #FFF;
-  color: $gray-200;
-  font-weight: normal;
-  border: 1px solid $table-border-color;
+  color: $white;
+}
+
+.badge-light {
+  color: $black;
 }
 
 .save-record {
@@ -298,19 +298,21 @@ section.section-home {
 }
 
 .nav-pills li {
-  background: $body-bg;
+  background: $gray-600;
   margin: 10px 10px 0 0;
-  box-shadow: 2px 2px 5px rgba(50, 50, 50, 1);
+  /*box-shadow: 2px 2px 5px rgba(50, 50, 50, 1); */
 
   a {
-    color: $gray-500;
+    color: $white;
     padding: 6px 12px;
     font-size: 16px;
     border: none;
   }
 
   a:hover {
-    color: $gray-500;
+    color: $white;
+
+    text-decoration: underline;
   }
 }
 li .dropdown {
@@ -572,4 +574,56 @@ hr {
   outline: none;
   cursor: pointer;
   padding: 15px;
+}
+
+/* breadcrumbs */
+.breadcrumb-wrapper{
+  border-bottom: 1px solid #ddd;
+  color: $gray-600;
+}
+
+.breadcrumb-item a {
+  color: $gray-600;
+}
+
+/* scroll down button */
+
+.scroll-down a {
+  padding-top: 60px;
+}
+
+.scroll-down a span {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 46px;
+  height: 46px;
+  margin-left: -23px;
+  border: 1px solid #fff;
+  border-radius: 100%;
+  box-sizing: border-box;
+}
+
+.scroll-down a span::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  content: '';
+  width: 16px;
+  height: 16px;
+  margin: -12px 0 0 -8px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  box-sizing: border-box;
+  opacity: 1;
+  -webkit-transition: all .5s ease-in 3s;
+  transition: all .5s ease-in 3s;
+}
+
+/* pager */
+
+.pager {
+  list-style: none;
 }

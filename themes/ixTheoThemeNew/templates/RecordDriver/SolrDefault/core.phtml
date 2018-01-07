@@ -298,7 +298,7 @@
               <? // Offer a browse button that allows to jump to browse mode ?>
               <? $parts = explode('/', $current); ?>
                 <? $query = '"'. implode('" "', $parts).'"'; ?>
-                <a href="<?=$this->url('keywordchainsearch-results')?>?lookfor=<?=urlencode($query)?>" title="<?=$this->transEsc('Browse Keywordchains')?>"><span class="iconlabel label label-info">B</span></a>
+                <a href="<?=$this->url('keywordchainsearch-results')?>?lookfor=<?=urlencode($query)?>" title="<?=$this->transEsc('Browse Keywordchains')?>"><span class="iconlabel badge badge-indo">B</span></a>
                 <? // Make single keywords clickable ?>
                 <? if (count($parts) > 0):?>
                   <? $i=0 ?>
@@ -320,7 +320,7 @@
               <? // Offer a browse button that allows to jump to browse mode ?>
               <? $parts = explode('|', $current); ?>
               <? $query = '"'. implode('" "', $parts).'"'; ?>
-              <a href="<?=$this->url('keywordchainsearch-results')?>?lookfor=<?=urlencode($query)?>" title="<?=$this->transEsc('Browse Keywordchains')?>"><span class="iconlabel label label-info">B</span></a>
+              <a href="<?=$this->url('keywordchainsearch-results')?>?lookfor=<?=urlencode($query)?>" title="<?=$this->transEsc('Browse Keywordchains')?>"><span class="iconlabel badge badge-indo">B</span></a>
               <? // Make single keywords clickable
                 foreach ($parts as $part):?>
                   <a href="<?= $this->record($this->driver)->getLink('subject', $part)?>"><?= $this->escapeHtml(str_replace("\\/", "/", $part)) ?></a>

@@ -19,6 +19,7 @@ var colors = require('ansi-colors');
 var beeper = require('beeper');
 var logSymbols = require('log-symbols');
 var GulpSSH = require('gulp-ssh');
+const notifier = require('node-notifier');
 
 //configuration
 var config = {
@@ -128,6 +129,8 @@ gulp.task('jquery', function(){
 
 gulp.task('watch',function() {
     log(colors.green("👓 Gulp is watching"));
+    notifier.notify({'title': '🥤Hello from gulp',
+                     'message': '👓 Gulp started to watch!'});
 
     gulp.watch('scss/**/*.scss',['compile-theme'])
         .on('error', function() {

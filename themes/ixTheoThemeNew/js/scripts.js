@@ -38,7 +38,7 @@ $(document).scroll( function () {
 });
 */
 
-$.scroll( function (){
+$(document).scroll( function (){
     // To-Top-Button
     if ($(this).scrollTop() > 50) {
         $('#back-to-top').fadeIn();
@@ -58,3 +58,11 @@ $('#back-to-top').click(function () {
 });
 
 $('#back-to-top').tooltip();
+
+/* scroll down button */
+$(function() {
+    $('#scroll-down-button').click(function(e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: $(document).height()}, 500, 'linear');
+    });
+});

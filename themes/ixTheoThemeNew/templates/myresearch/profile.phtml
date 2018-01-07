@@ -7,8 +7,8 @@ $this->layout()->breadcrumbs = '<li><a href="' . $this->url('myresearch-home') .
 
 ?>
 
-<div class="row">    
-    <div class="<?=$this->layoutClass('mainbody')?>">
+<div class="container">
+    <div class="<?=$this->layoutClass('mainbody')?> col-8">
         <h1><?=$this->translate('My Profile')?></h1>
         <form method="post" name="accountForm" id="accountForm" class="form-horizontal" data-toggle="validator" role="form">
             <?=$this->context($this)->renderInContext('Auth/Database/create.phtml', ['only_additional_information' => true]);?>
@@ -20,7 +20,7 @@ $this->layout()->breadcrumbs = '<li><a href="' . $this->url('myresearch-home') .
             </div>
         </form>
     </div>
-    <div class="<?=$this->layoutClass('sidebar')?>">
+    <div class="<?=$this->layoutClass('sidebar')?> col-4">
         <?=$this->context($this)->renderInContext("myresearch/menu.phtml", array('active' => 'profile'))?>
     </div>
 </div>

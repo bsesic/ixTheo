@@ -104,9 +104,9 @@ $line-height-sm:              1.5 !default;
 $border-width:                1px !default;
 $border-color:                $gray-200 !default;
 
-$border-radius:               .25rem !default;
-$border-radius-lg:            .3rem !default;
-$border-radius-sm:            .2rem !default;
+$border-radius:               0px ;
+$border-radius-lg:            0px;
+$border-radius-sm:            0px;
 
 $component-active-color:      $white !default;
 $component-active-bg:         theme-colors("primary") !default;
@@ -490,4 +490,4 @@ $breadcrumb-margin-bottom:          1rem !default;
 $breadcrumb-bg:                     $white;
 $breadcrumb-divider-color:          $gray-600;
 $breadcrumb-active-color:           $dark;
-$breadcrumb-divider:                ">";
+$breadcrumb-divider:                "\276F\00a0";

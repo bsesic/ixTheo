@@ -1,4 +1,14 @@
-<div class="<?=$this->driver->supportsAjaxStatus()?'ajaxItem ':''?>col-xs-11">
+<?php
+/*********************************************
+*
+* result-list.phtml
+*
+* Shows the list of the search results.
+*
+*************************************/
+?>
+
+<div class="<?=$this->driver->supportsAjaxStatus()?'ajaxItem ':''?>col-12">
   <div class="row">
     <div>
       <input type="hidden" value="<?=$this->escapeHtmlAttr($this->driver->getUniqueID())?>" class="hiddenId" />
@@ -181,7 +191,7 @@
          $urls = $this->record($this->driver)->getLinkDetails($openUrlActive); ?>
       <? if (!$openUrlActive && empty($urls) && $this->driver->supportsAjaxStatus()): ?>
         <span class="status ajax-availability hidden">
-          <span class="label label-default"><?=$this->transEsc('Loading')?>...</span>
+          <span class="badge badge-default"><?=$this->transEsc('Loading')?>...</span>
         </span>
       <? endif; ?>
 
@@ -191,7 +201,7 @@
          }
       ?>
       <?=$this->record($this->driver)->getPreviews()?>
-      <?$label = str_replace('class="', 'class="label label-info ', $this->record($this->driver)->getFormatList())?>
+      <?$label = str_replace('class="', 'class="badge badge-info ', $this->record($this->driver)->getFormatList())?>
       <? /* Remove separator needed for long title view */ ?>
       <?=str_replace(' | ', '', $label)?>
     </div>

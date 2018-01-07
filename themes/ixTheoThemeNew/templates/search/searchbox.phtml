@@ -29,16 +29,16 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
 ?>
 
 
-<div class="container-fluid px-0">
-    <div class="row px-0">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 px-0">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 px-0">
             <!--  Begin section searchbar -->
             <section class="visible-lg section-home">
                 <div class="panel-home">
-                    <!-- <img class="header-image" src="/themes/ixTheoThemeNew/images/searchbar3.jpg" > -->
-                    <video autoplay muted loop id="headervideo" class="header-video">
+                    <img class="header-image" src="/themes/ixTheoThemeNew/images/searchbar.jpg" >
+                    <!-- <video autoplay muted loop id="headervideo" class="header-video">
                         <source src="/themes/ixTheoThemeNew/images/writing.mp4" type="video/mp4">
-                    </video>
+                    </video> -->
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-6 mx-auto">
 
                         <!--  Begin title -->
@@ -246,9 +246,11 @@ $hiddenFilterParams = $this->searchtabs()->getCurrentHiddenFilterParams($this->s
                                 <script type="text/javascript">$(".searchForm_lookfor:visible").focus()</script>
                             <? endif; ?>
 
-
                         </div>
                     </div><!-- close container -->
+                    <div class="scroll-down" id="scroll-down">
+                        <a href="" id="scroll-down-button"><span></span>Scroll down</a>
+                    </div>
                 </div><!-- close panel-home -->
             </section>
             <!-- End section searchbar -->
